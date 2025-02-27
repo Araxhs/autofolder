@@ -17,3 +17,5 @@ Ask any ai to make a simplete web app folder strcutre, what answer will be of fo
 ## Requirements
 - **Operating System:** Windows (for the batch file).
 - **Python:** Version 3.x installed (check with `python --version`).
+
+if you like the project support me at https://buymeacoffee.com/araxhs
