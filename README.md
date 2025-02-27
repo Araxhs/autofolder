@@ -11,58 +11,7 @@ AutoFolder: AI-Powered Folder Structure Creator, ## Features - Parses tree-style
    - The script creates the folders and files in your current directory.
 
 ## Example
-Paste this:
-
-project/
-├── css/
-│   └── style.css
-├── lessons/
-│   ├── lesson1.html
-│   ├── lesson2.html
-│   ├── lesson3/
-│   │   ├── page1.html
-│   │   ├── page2.html
-│   │   └── page3.html
-│   ├── lesson4.html
-│   ├── lesson5/
-│   │   ├── page1.html
-│   │   └── page2.html
-│   ├── lesson6/
-│   │   ├── page1.html
-│   │   └── page2.html
-│   ├── lesson7/
-│   │   ├── page1.html
-│   │   └── page2.html
-│   ├── lesson8.html
-│   ├── lesson9/
-│   │   ├── page1.html
-│   │   ├── page2.html
-│   │   └── page3.html
-│   ├── lesson10/
-│   │   ├── page1.html
-│   │   ├── page2.html
-│   │   └── page3.html
-│   ├── lesson11/
-│   │   ├── page1.html
-│   │   └── page2.html
-│   ├── lesson12/
-│   │   ├── page1.html
-│   │   ├── page2.html
-│   │   ├── page3.html
-│   │   └── page4.html
-│   ├── lesson13/
-│   │   ├── page1.html
-│   │   └── page2.html
-│   ├── lesson14/
-│   │   ├── page1.html
-│   │   └── page2.html
-│   ├── lesson15.html
-│   ├── lesson16.html
-│   ├── lesson17.html
-│   └── lesson18/
-│       ├── page1.html
-│       └── page2.html
-└── index.html 
+Ask any ai to make a simplete web app folder strcutre, what answer will be of folders and strcutre jsut paste it.
 
 
 ## Requirements
